@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science graduate with
 
 - 📍 *Location:* Shivamogga, India  
 - 📧 *Email:* nithinss16802@gmail.com  
-- 💼 *LinkedIn:* [Nithin S S](www.linkedin.com/in/nithin-s-s-055931212)  
+- 💼 *LinkedIn:* www.linkedin.com/in/nithin-s-s-055931212  
 
 ---
 
